@@ -1,4 +1,4 @@
-# 📊 Sales Management Intelligent Dashboard
+# 📊 Sales Management Intelligent Dashboard (IntelliShift Hackathon)
 
 An AI-powered sales management and analytics system developed for a hackathon. The project transforms raw sales data into meaningful business insights through data analysis, visualization, and intelligent decision support.
 
